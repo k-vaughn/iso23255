@@ -14,3 +14,10 @@ Applicability of data distribution technologies within ITS
 |Dick Roy            |RTI      |[Deep Dive into DDS/OPC Gateway Part 2](../../raw/master/Stan%20IoT%20Preso%2020%20June%202018.pdf)|
 |Dick Roy            |RTI      |[Deep Dive into DDS/OPC Gateway Part 3](../../raw/master/Deep%20Dive%20DDS%20%26%20OPC-UA.pdf)|
 |Dick Roy            |IIC      |[Industrial Internet of Things Volume G5; Connectivity Framework](../../raw/master/IIC_PUB_G5_V1.01_PB_20180228.pdf)|
+
+
+Those who wish to contribute information to the site should:
+1.	Create an account on Github
+2.	Request “collaborator” permissions from myself via e-mail (I will then send an invite)
+3.	Accept the invite
+The user will then be able to post information to the site.
